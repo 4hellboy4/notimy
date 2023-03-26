@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "474657887294",
+    "firebase_url": "https://notimy-b0494-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "notimy-b0494",
+    "storage_bucket": "notimy-b0494.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474657887294:android:e4d5588bfcbb153a1f6d6f",
+        "android_client_info": {
+          "package_name": "com.example.provider_ex1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474657887294-lqibt6lsouvsianied3hrtj3fo16vrbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUYq9ZMwiclm2Qyrat1XWxsBFPlN9LIGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474657887294-lqibt6lsouvsianied3hrtj3fo16vrbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
