@@ -11,11 +11,11 @@ Nowadays people spend about the half of their day time using gadgets and surfing
 - [Future Plans](#future-plans)
 
 ## Overview
-A brief overview of the project, its main features, and how it works. This should give readers a good idea of what the project does without having to dive into technical details.
+This app provides people with convinience. A person can use it without signing up, namely without exposing personal information such as mobile phone, emai, etc. If you have to provide someone with a one-time service and do not want to share your personal data, you merely show your identifier, you or another person are sent with an invitation to create a channel and that is it. When the serviсe is provided, push the button on the certain channel to finish it and to notify another user you are connected with.
 
 ## Screenshorts
-
-Screenshots or images of the app in action, highlighting key features and functionality.
+Some application's screenshots of the application
+![Home screen]()
 
 ## Full Description
 Link to a more detailed description of the app, including technical details and a step-by-step guide on how to use it. This can be a separate document or webpage hosted elsewhere.
