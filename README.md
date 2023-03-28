@@ -15,15 +15,15 @@ This app provides people with convinience. A person can use it without signing u
 ## Screenshorts
 Some application's screenshots of the application
 * ### Home screen
-<br><img src="https://github.com/4hellboy4/notimy/blob/main/assets/markdown/main_screen.png" width="250" height ="400">
+<br><img src="https://github.com/4hellboy4/notimy/blob/main/assets/markdown/main_screen.png" width="200" height ="400">
 * ### ID screen
-<br><img src="https://github.com/4hellboy4/notimy/blob/main/assets/markdown/id_screen.png" width="250" height ="400">
+<br><img src="https://github.com/4hellboy4/notimy/blob/main/assets/markdown/id_screen.png" width="200" height ="400">
 * ### Invitation alert
-<br><img src="https://github.com/4hellboy4/notimy/blob/main/assets/markdown/invitation_alert.png" width="250" height ="400">
+<br><img src="https://github.com/4hellboy4/notimy/blob/main/assets/markdown/invitation_alert.png" width="200" height ="400">
 * ### Channel's description
-<br><img src="https://github.com/4hellboy4/notimy/blob/main/assets/markdown/description_screen.png" width="250" height ="400">
+<br><img src="https://github.com/4hellboy4/notimy/blob/main/assets/markdown/description_screen.png" width="200" height ="400">
 * ### Screen of active channels
-<br><img src="https://github.com/4hellboy4/notimy/blob/main/assets/markdown/notimies_screen.png" width="250" height ="400">
+<br><img src="https://github.com/4hellboy4/notimy/blob/main/assets/markdown/notimies_screen.png" width="200" height ="400">
 
 
 ## Full Description
