@@ -1,6 +1,5 @@
 # Notimy
-
-Nowadays people spend about the half of their day time using gadgets and surfing the net, therefore some problems appear, for instance, the main is the lack of anonimuty. Hence I created the app which will solve this issue.
+Nowadays people spend about the half of their day time using gadgets and surfing the net, therefore some problems appear, for instance, the main is the lack of anonimuty. Hence I created the app which will solve this issue. 
 
 ## Table of contents
 - [Overview](#overview)
@@ -11,15 +10,14 @@ Nowadays people spend about the half of their day time using gadgets and surfing
 - [Future Plans](#future-plans)
 
 ## Overview
-This app provides people with convinience. A person can use it without signing up, namely without exposing personal information such as mobile phone, emai, etc. If you have to provide someone with a one-time service and do not want to share your personal data, you merely show your identifier, you or another person are sent with an invitation to create a channel and that is it. When the serviсe is provided, push the button on the certain channel to finish it and notify another user you are connected with.
+This app provides people with convinience. A person can use it without signing up, namely without exposing personal information such as phone number, emai, etc. If you have to provide someone with a one-time service and do not want to share your personal data, you merely show your identifier, you or another person are sent with an invitation to create a channel and that is it. When the serviсe is provided, push the button on the certain channel to finish it and notify another user you are connected with.
 
 ## Screenshorts
 Some application's screenshots of the application
 * ![Home screen](https://github.com/4hellboy4/notimy/blob/main/assets/markdown/main_screen.png)
 * ![ID screen](https://github.com/4hellboy4/notimy/blob/main/assets/markdown/id_screen.png)
 * ![Invitation alert](https://github.com/4hellboy4/notimy/blob/main/assets/markdown/invitation_alert.png)
-* ![ID screen](https://github.com/4hellboy4/notimy/blob/main/assets/markdown/id_screen.png)
-* ![Channel's description](https://github.com/4hellboy4/notimy/blob/main/assets/markdown/id_screen.png)
+* ![Channel's description](https://github.com/4hellboy4/notimy/blob/main/assets/markdown/description_screen.png)
 * ![Screen of active channels](https://github.com/4hellboy4/notimy/blob/main/assets/markdown/notimies_screen.png)
 
 
@@ -40,9 +38,11 @@ To conclude that our app is in demand we made a comparison table with existing a
 | Convenience | + | + | — | + |
 | Total | 1 | 5 | 1 | 5 |
 
+The comparison table demonsttraits that the app's creation is advisable
+
 
 ## Example of Use
-Provide an example of how your app can be used, including screenshots or a step-by-step guide. This should demonstrate the key features of the app and how it can help solve the problem it was designed for.
+Imagine you rip your trousers and to stich the hole you decide to give it to sewing workshop. They ask your phone number, but you decline sharing it, because you are concerned about privacy and do not want to get spam day-to-day. They say it will not be a problem, make a deal and ask you to come back back within two hours. After time runs out you come back and nothing changes, trousers are still ripped. You realise that you wasted time. That is the moment when one-time anonymous channels gets handy. Both you and sewing workshop have Notimy, create a channel and when the tast is complited you will get a notification. You saved your time and still do not expose personal data
 
 ## Future Plans
-Outline your plans for the future of the app, including any new features or improvements you plan to add. This can help potential users and contributors understand where the project is headed and how they can get involved. 
+The main goal for the nearest future is to create the web virsion of the application, because often people are lazy, they do not want to download anything. To simplify it, I intend to create a website and moreover make possible to create channels by scanning the QR code.
