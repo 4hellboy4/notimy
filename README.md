@@ -1,5 +1,5 @@
 # Notimy
-Nowadays people spend about the half of their day time using gadgets and surfing the net, therefore some problems appear, for instance, the main is the lack of anonimuty. Hence I created the app which will solve this issue. 
+Nowadays people spend about the half of their day  using gadgets and surfing the Net. Therefore, some problems appear. For instance, the main is the lack of anonimity. Hence I created the app which can solve this issue. 
 
 ## Table of contents
 - [Overview](#overview)
@@ -10,7 +10,7 @@ Nowadays people spend about the half of their day time using gadgets and surfing
 - [Future Plans](#future-plans)
 
 ## Overview
-This app provides people with convinience. A person can use it without signing up, namely without exposing personal information such as phone number, emai, etc. If you have to provide someone with a one-time service and do not want to share your personal data, you merely show your identifier, you or another person are sent with an invitation to create a channel and that is it. When the serviсe is provided, push the button on the certain channel to finish it and notify another user you are connected with.
+This app makes it convenient for people. A person can use it without signing up, namely without exposing personal information such as phone number, email, etc. If you have to provide someone with a one-time service and do not want to share your personal data, you merely show your identifier, then you or another person is sent an invitation to create a channel, and that is it. When the serviсe is provided, push the button on the certain channel to complete it and notify another user you were connected with.
 
 ## Screenshorts
 Some application's screenshots of the application
@@ -27,7 +27,7 @@ Some application's screenshots of the application
 
 
 ## Full Description
-[Documentation](https://drive.google.com/file/d/1jqmHYMLrdLI2dPLlEEG1nY4og2PO_3o0/view?usp=share_link) - link to the more detailed description of the app, including technical details and the step-by-step guide on how to use it
+[Documentation](https://drive.google.com/file/d/1jqmHYMLrdLI2dPLlEEG1nY4og2PO_3o0/view?usp=share_link) - link to the more detailed description of the app, including technical details and the step-by-step guide on how to use it.
 
 ## Comparison Table
 To conclude that our app is in demand we made a comparison table with existing alternatives and showed pros and cons of each solution.
@@ -40,14 +40,14 @@ To conclude that our app is in demand we made a comparison table with existing a
 | Use for other purposes | — | + | — | — |
 | Price | — | + | — | + |
 | Convenience | + | + | — | + |
-| Convenience | + | + | — | + |
 | Total | 1 | 5 | 1 | 5 |
 
-The comparison table demonsttraits that the app's creation is advisable
+The comparison table demonstraits that the app's launch is advisable.
 
 
 ## Example of Use
-Imagine you rip your trousers and to stich the hole you decide to give it to sewing workshop. They ask your phone number, but you decline sharing it, because you are concerned about privacy and do not want to get spam day-to-day. They say it will not be a problem, make a deal and ask you to come back back within two hours. After time runs out you come back and nothing changes, trousers are still ripped. You realise that you wasted time. That is the moment when one-time anonymous channels gets handy. Both you and sewing workshop have Notimy, create a channel and when the tast is complited you will get a notification. You saved your time and still do not expose personal data
+Imagine you rip your trousers and to mend the hole you decide to give it to a sewing workshop. They ask your phone number, but you decline sharing it, because you are concerned about 
+your privacy and do not want to get spam day to day. They say it will not be a problem, make a deal and ask you to come back  within two hours. After the time runs out you come back and nothing changes, trousers are still ripped. You realise that you wasted time. That is the moment when one-time anonymous channels gets handy. Both you and the sewing workshop have Notimy, create a channel and when the task is completed you get a notification. You save your time and still do not expose any personal data.
 
 ## Future Plans
-The main goal for the nearest future is to create the web virsion of the application, because often people are lazy, they do not want to download anything. To simplify it, I intend to create a website and moreover make possible to create channels by scanning the QR code.
+The main goal for the nearest future is to create the web version of the application, because often people are lazy, they do not want to download anything. To simplify it, I intend to create a website and moreover make it possible to create channels by scanning the QR code.
